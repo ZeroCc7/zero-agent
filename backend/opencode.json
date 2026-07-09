@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "../docs/ai-context/00-doc-index.md",
+    "../docs/ai-context/01-project-overview.md",
+    "../docs/ai-context/02-api-contract.md",
+    "../docs/ai-context/04-backend-rules.md",
+    "../docs/ai-context/06-database-rules.md",
+    "../docs/ai-context/08-error-handling-rules.md",
+    "../docs/architecture/agent-harness/01-overview.md",
+    "../docs/architecture/agent-harness/10-web-service-bff.md",
+    "../docs/architecture/agent-harness/12-api-design.md",
+    "./AGENTS.md"
+  ]
+}
