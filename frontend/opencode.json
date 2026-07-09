@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "../docs/ai-context/00-doc-index.md",
+    "../docs/ai-context/01-project-overview.md",
+    "../docs/ai-context/02-api-contract.md",
+    "../docs/ai-context/03-frontend-rules.md",
+    "../docs/ai-context/05-ui-interaction-rules.md",
+    "../docs/ai-context/07-permission-rules.md",
+    "../docs/architecture/agent-harness/10-web-service-bff.md",
+    "./AGENTS.md"
+  ]
+}
